@@ -16,7 +16,7 @@ Please, feel free to connect, follow and contact me:
 - [LinkedIn](https://www.linkedin.com/in/denisrasulev)
 - [Twitter](https://twitter.com/drasulev)
 
-Or signup for my weekly newspaper [here](http://paper.li/drasulev/1452088171).
+Or signup for my *Data Science Weekly* newspaper [here](http://paper.li/drasulev/1452088171).
 
 © 2016 Denis Rasulev
 
