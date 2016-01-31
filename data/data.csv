@@ -1,0 +1,358 @@
+region,year,type,population
+All Kazakhstan,2009,total,15982370
+All Kazakhstan,2009,urban,8662919
+All Kazakhstan,2009,rural,7319451
+All Kazakhstan,2010,total,16203036
+All Kazakhstan,2010,urban,8819472
+All Kazakhstan,2010,rural,7383564
+All Kazakhstan,2011,total,16440124
+All Kazakhstan,2011,urban,8973771
+All Kazakhstan,2011,rural,7466353
+All Kazakhstan,2012,total,16673077
+All Kazakhstan,2012,urban,9127112
+All Kazakhstan,2012,rural,7545965
+All Kazakhstan,2013,total,16909776
+All Kazakhstan,2013,urban,9277657
+All Kazakhstan,2013,rural,7632119
+All Kazakhstan,2014,total,17160774
+All Kazakhstan,2014,urban,9433482
+All Kazakhstan,2014,rural,7727292
+All Kazakhstan,2015,total,17417673
+All Kazakhstan,2015,urban,9868641
+All Kazakhstan,2015,rural,7549032
+Akmola,2009,total,738827
+Akmola,2009,urban,342188
+Akmola,2009,rural,396639
+Akmola,2010,total,735117
+Akmola,2010,urban,342326
+Akmola,2010,rural,392791
+Akmola,2011,total,733244
+Akmola,2011,urban,342426
+Akmola,2011,rural,390818
+Akmola,2012,total,731337
+Akmola,2012,urban,341742
+Akmola,2012,rural,389595
+Akmola,2013,total,732719
+Akmola,2013,urban,344237
+Akmola,2013,rural,388482
+Akmola,2014,total,735566
+Akmola,2014,urban,346391
+Akmola,2014,rural,389175
+Akmola,2015,total,736605
+Akmola,2015,urban,347382
+Akmola,2015,rural,389223
+Aktobe,2009,total,756782
+Aktobe,2009,urban,460251
+Aktobe,2009,rural,296531
+Aktobe,2010,total,763566
+Aktobe,2010,urban,465350
+Aktobe,2010,rural,298216
+Aktobe,2011,total,777460
+Aktobe,2011,urban,478155
+Aktobe,2011,rural,299305
+Aktobe,2012,total,786316
+Aktobe,2012,urban,484940
+Aktobe,2012,rural,301376
+Aktobe,2013,total,795817
+Aktobe,2013,urban,490590
+Aktobe,2013,rural,305227
+Aktobe,2014,total,808932
+Aktobe,2014,urban,498794
+Aktobe,2014,rural,310138
+Aktobe,2015,total,822522
+Aktobe,2015,urban,510568
+Aktobe,2015,rural,311954
+Almaty,2009,total,1804005
+Almaty,2009,urban,424687
+Almaty,2009,rural,1379318
+Almaty,2010,total,1836148
+Almaty,2010,urban,431635
+Almaty,2010,rural,1404513
+Almaty,2011,total,1872814
+Almaty,2011,urban,438470
+Almaty,2011,rural,1434344
+Almaty,2012,total,1908717
+Almaty,2012,urban,444547
+Almaty,2012,rural,1464170
+Almaty,2013,total,1946718
+Almaty,2013,urban,451914
+Almaty,2013,rural,1494804
+Almaty,2014,total,1984518
+Almaty,2014,urban,457716
+Almaty,2014,rural,1526802
+Almaty,2015,total,1922107
+Almaty,2015,urban,465804
+Almaty,2015,rural,1456303
+Atyrau,2009,total,509123
+Atyrau,2009,urban,239034
+Atyrau,2009,rural,270089
+Atyrau,2010,total,520992
+Atyrau,2010,urban,247286
+Atyrau,2010,rural,273706
+Atyrau,2011,total,532042
+Atyrau,2011,urban,254164
+Atyrau,2011,rural,277878
+Atyrau,2012,total,542966
+Atyrau,2012,urban,260668
+Atyrau,2012,rural,282298
+Atyrau,2013,total,555217
+Atyrau,2013,urban,268192
+Atyrau,2013,rural,287025
+Atyrau,2014,total,567861
+Atyrau,2014,urban,265229
+Atyrau,2014,rural,302632
+Atyrau,2015,total,581473
+Atyrau,2015,urban,274368
+Atyrau,2015,rural,307105
+West Kazakhstan,2009,total,598342
+West Kazakhstan,2009,urban,277055
+West Kazakhstan,2009,rural,321287
+West Kazakhstan,2010,total,603828
+West Kazakhstan,2010,urban,283663
+West Kazakhstan,2010,rural,320165
+West Kazakhstan,2011,total,608280
+West Kazakhstan,2011,urban,289995
+West Kazakhstan,2011,rural,318285
+West Kazakhstan,2012,total,612498
+West Kazakhstan,2012,urban,297073
+West Kazakhstan,2012,rural,315425
+West Kazakhstan,2013,total,617640
+West Kazakhstan,2013,urban,303017
+West Kazakhstan,2013,rural,314623
+West Kazakhstan,2014,total,623977
+West Kazakhstan,2014,urban,307001
+West Kazakhstan,2014,rural,316976
+West Kazakhstan,2015,total,629951
+West Kazakhstan,2015,urban,312305
+West Kazakhstan,2015,rural,317646
+Zhambyl,2009,total,1020796
+Zhambyl,2009,urban,415047
+Zhambyl,2009,rural,605749
+Zhambyl,2010,total,1034487
+Zhambyl,2010,urban,420282
+Zhambyl,2010,rural,614205
+Zhambyl,2011,total,1046253
+Zhambyl,2011,urban,422760
+Zhambyl,2011,rural,623493
+Zhambyl,2012,total,1055813
+Zhambyl,2012,urban,422194
+Zhambyl,2012,rural,633619
+Zhambyl,2013,total,1069874
+Zhambyl,2013,urban,427879
+Zhambyl,2013,rural,641995
+Zhambyl,2014,total,1084482
+Zhambyl,2014,urban,436466
+Zhambyl,2014,rural,648016
+Zhambyl,2015,total,1098740
+Zhambyl,2015,urban,442787
+Zhambyl,2015,rural,655953
+Karaganda,2009,total,1341207
+Karaganda,2009,urban,1039005
+Karaganda,2009,rural,302202
+Karaganda,2010,total,1346810
+Karaganda,2010,urban,1048058
+Karaganda,2010,rural,298752
+Karaganda,2011,total,1352178
+Karaganda,2011,urban,1055727
+Karaganda,2011,rural,296451
+Karaganda,2012,total,1357878
+Karaganda,2012,urban,1063185
+Karaganda,2012,rural,294693
+Karaganda,2013,total,1362743
+Karaganda,2013,urban,1068385
+Karaganda,2013,rural,294358
+Karaganda,2014,total,1369667
+Karaganda,2014,urban,1077482
+Karaganda,2014,rural,292185
+Karaganda,2015,total,1378298
+Karaganda,2015,urban,1088300
+Karaganda,2015,rural,289998
+Kostanay,2009,total,886329
+Kostanay,2009,urban,439558
+Kostanay,2009,rural,446771
+Kostanay,2010,total,883333
+Kostanay,2010,urban,441237
+Kostanay,2010,rural,442096
+Kostanay,2011,total,881544
+Kostanay,2011,urban,443223
+Kostanay,2011,rural,438321
+Kostanay,2012,total,879454
+Kostanay,2012,urban,446363
+Kostanay,2012,rural,433091
+Kostanay,2013,total,879941
+Kostanay,2013,urban,450890
+Kostanay,2013,rural,429051
+Kostanay,2014,total,880776
+Kostanay,2014,urban,454634
+Kostanay,2014,rural,426142
+Kostanay,2015,total,881456
+Kostanay,2015,urban,460239
+Kostanay,2015,rural,421217
+Kyzylorda,2009,total,677734
+Kyzylorda,2009,urban,283971
+Kyzylorda,2009,rural,393763
+Kyzylorda,2010,total,689008
+Kyzylorda,2010,urban,290482
+Kyzylorda,2010,rural,398526
+Kyzylorda,2011,total,700502
+Kyzylorda,2011,urban,295737
+Kyzylorda,2011,rural,404765
+Kyzylorda,2012,total,712878
+Kyzylorda,2012,urban,302077
+Kyzylorda,2012,rural,410801
+Kyzylorda,2013,total,726711
+Kyzylorda,2013,urban,309950
+Kyzylorda,2013,rural,416761
+Kyzylorda,2014,total,739776
+Kyzylorda,2014,urban,316740
+Kyzylorda,2014,rural,423036
+Kyzylorda,2015,total,753148
+Kyzylorda,2015,urban,325060
+Kyzylorda,2015,rural,428088
+Mangystau,2009,total,482631
+Mangystau,2009,urban,262237
+Mangystau,2009,rural,220394
+Mangystau,2010,total,503235
+Mangystau,2010,urban,269436
+Mangystau,2010,rural,233799
+Mangystau,2011,total,524176
+Mangystau,2011,urban,275829
+Mangystau,2011,rural,248347
+Mangystau,2012,total,545751
+Mangystau,2012,urban,281885
+Mangystau,2012,rural,263866
+Mangystau,2013,total,567754
+Mangystau,2013,urban,287741
+Mangystau,2013,rural,280013
+Mangystau,2014,total,587419
+Mangystau,2014,urban,293098
+Mangystau,2014,rural,294321
+Mangystau,2015,total,606892
+Mangystau,2015,urban,298734
+Mangystau,2015,rural,308158
+South Kazakhstan,2009,total,2462782
+South Kazakhstan,2009,urban,970164
+South Kazakhstan,2009,rural,1492618
+South Kazakhstan,2010,total,2511600
+South Kazakhstan,2010,urban,988734
+South Kazakhstan,2010,rural,1522866
+South Kazakhstan,2011,total,2567637
+South Kazakhstan,2011,urban,1007809
+South Kazakhstan,2011,rural,1559828
+South Kazakhstan,2012,total,2621488
+South Kazakhstan,2012,urban,1025541
+South Kazakhstan,2012,rural,1595947
+South Kazakhstan,2013,total,2678889
+South Kazakhstan,2013,urban,1048405
+South Kazakhstan,2013,rural,1630484
+South Kazakhstan,2014,total,2733279
+South Kazakhstan,2014,urban,1069735
+South Kazakhstan,2014,rural,1663544
+South Kazakhstan,2015,total,2788404
+South Kazakhstan,2015,urban,1247454
+South Kazakhstan,2015,rural,1540950
+Pavlodar,2009,total,742276
+Pavlodar,2009,urban,504004
+Pavlodar,2009,rural,238272
+Pavlodar,2010,total,744334
+Pavlodar,2010,urban,508727
+Pavlodar,2010,rural,235607
+Pavlodar,2011,total,746122
+Pavlodar,2011,urban,511808
+Pavlodar,2011,rural,234314
+Pavlodar,2012,total,747004
+Pavlodar,2012,urban,514371
+Pavlodar,2012,rural,232633
+Pavlodar,2013,total,749019
+Pavlodar,2013,urban,518191
+Pavlodar,2013,rural,230828
+Pavlodar,2014,total,752793
+Pavlodar,2014,urban,524879
+Pavlodar,2014,rural,227914
+Pavlodar,2015,total,755778
+Pavlodar,2015,urban,529911
+Pavlodar,2015,rural,225867
+North Kazakhstan,2009,total,597534
+North Kazakhstan,2009,urban,237442
+North Kazakhstan,2009,rural,360092
+North Kazakhstan,2010,total,592738
+North Kazakhstan,2010,urban,237993
+North Kazakhstan,2010,rural,354745
+North Kazakhstan,2011,total,589301
+North Kazakhstan,2011,urban,238777
+North Kazakhstan,2011,rural,350524
+North Kazakhstan,2012,total,583582
+North Kazakhstan,2012,urban,238369
+North Kazakhstan,2012,rural,345213
+North Kazakhstan,2013,total,579488
+North Kazakhstan,2013,urban,239137
+North Kazakhstan,2013,rural,340351
+North Kazakhstan,2014,total,575766
+North Kazakhstan,2014,urban,241176
+North Kazakhstan,2014,rural,334590
+North Kazakhstan,2015,total,571759
+North Kazakhstan,2015,urban,243112
+North Kazakhstan,2015,rural,328647
+East Kazakhstan,2009,total,1396871
+East Kazakhstan,2009,urban,801145
+East Kazakhstan,2009,rural,595726
+East Kazakhstan,2010,total,1397993
+East Kazakhstan,2010,urban,804416
+East Kazakhstan,2010,rural,593577
+East Kazakhstan,2011,total,1397889
+East Kazakhstan,2011,urban,808209
+East Kazakhstan,2011,rural,589680
+East Kazakhstan,2012,total,1394710
+East Kazakhstan,2012,urban,811472
+East Kazakhstan,2012,rural,583238
+East Kazakhstan,2013,total,1393619
+East Kazakhstan,2013,urban,815502
+East Kazakhstan,2013,rural,578117
+East Kazakhstan,2014,total,1394018
+East Kazakhstan,2014,urban,822197
+East Kazakhstan,2014,rural,571821
+East Kazakhstan,2015,total,1395324
+East Kazakhstan,2015,urban,827401
+East Kazakhstan,2015,rural,567923
+Astana city,2009,total,605254
+Astana city,2009,urban,605254
+Astana city,2009,rural,0
+Astana city,2010,total,649146
+Astana city,2010,urban,649146
+Astana city,2010,rural,0
+Astana city,2011,total,697156
+Astana city,2011,urban,697156
+Astana city,2011,rural,0
+Astana city,2012,total,742884
+Astana city,2012,urban,742884
+Astana city,2012,rural,0
+Astana city,2013,total,778198
+Astana city,2013,urban,778198
+Astana city,2013,rural,0
+Astana city,2014,total,814435
+Astana city,2014,urban,814435
+Astana city,2014,rural,0
+Astana city,2015,total,852882
+Astana city,2015,urban,852882
+Astana city,2015,rural,0
+Almaty city,2009,total,1361877
+Almaty city,2009,urban,1361877
+Almaty city,2009,rural,0
+Almaty city,2010,total,1390701
+Almaty city,2010,urban,1390701
+Almaty city,2010,rural,0
+Almaty city,2011,total,1413526
+Almaty city,2011,urban,1413526
+Almaty city,2011,rural,0
+Almaty city,2012,total,1449801
+Almaty city,2012,urban,1449801
+Almaty city,2012,rural,0
+Almaty city,2013,total,1475429
+Almaty city,2013,urban,1475429
+Almaty city,2013,rural,0
+Almaty city,2014,total,1507509
+Almaty city,2014,urban,1507509
+Almaty city,2014,rural,0
+Almaty city,2015,total,1642334
+Almaty city,2015,urban,1642334
+Almaty city,2015,rural,0
